@@ -1,0 +1,1 @@
+"""EurExpense application package."""
